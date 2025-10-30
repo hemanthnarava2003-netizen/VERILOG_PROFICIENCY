@@ -114,9 +114,6 @@ Thus, both signals update **simultaneously**, avoiding race conditions.
 
 ---
 
-🧩 **Author:** *Your Name*  
-📅 **Last Updated:** October 2025  
-🔗 **License:** MIT  
 
 > “Non-blocking assignments make your simulation behave like real hardware — everything updates together at the clock edge.” 🕒⚙️
 
