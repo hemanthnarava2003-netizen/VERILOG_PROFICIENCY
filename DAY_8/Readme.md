@@ -151,4 +151,4 @@ At **low frequencies**, power consumption is minimized by reducing switching act
 
 By optimizing both **flip-flop selection** and **clock control**, you can achieve **high stability** and **energy efficiency**, making such counters ideal for **embedded and battery-operated devices**.
 
-
+---
